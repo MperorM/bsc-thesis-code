@@ -9,6 +9,8 @@ To reproduce results of the paper run notebooks in the following order:
 4. benchmark_models.ipynb
 5. plots.ipynb
 
+Some hardcoded paths (dataset directory etc.) may need to be changed.
+
 The trained LSTM models are included in the repository.
 To reproduce the LSTM model run LSTM.ipynb
 Replace the models located in ./models/lstm_models/ with your newly trained models
